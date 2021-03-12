@@ -76,9 +76,20 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   background: #F97794 !important;
 }
 
+.site-logo {
+  width: 80%
+  height: auto;
+}
+
+
 /* ==========================================================================
    2.1 Section Title
    ========================================================================== */
+
+
+
+
+
 .section {
   padding: 80px 0;
 }
