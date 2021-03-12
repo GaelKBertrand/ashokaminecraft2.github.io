@@ -1408,7 +1408,7 @@ button:focus {
 
 .single-team {
   position: relative;
-  background: #f9f9f9;
+  background: #99afc7;
   border-radius: 4px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1492,7 +1492,7 @@ button:focus {
 }
 
 .testimonial {
-  background: #f9f9f9;
+  background: #808080;
 }
 
 .testimonial-item {
