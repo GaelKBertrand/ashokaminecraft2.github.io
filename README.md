@@ -2,4 +2,4 @@
 A cool craft website!!
 
 
-https://gaelkbertrand.github.io/ashokaminecraft.github.io/
+https://gaelkbertrand.github.io/ashokaminecraft2.github.io/
