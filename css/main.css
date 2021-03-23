@@ -81,7 +81,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   height: auto;
 }
 
-#logo {
+.logo {
   display: inline-block;
   margin: 15px; /* margin: 20px was off */
   float: left;
