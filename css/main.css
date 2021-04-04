@@ -273,6 +273,11 @@ button:focus {
   color: #4867AA;
 }
 
+
+.instagram a {
+  color: #4867AA;
+}
+
 .facebook a:hover {
   background: #4867AA;
 }
@@ -332,6 +337,7 @@ button:focus {
 .behance a:hover {
   background: #0B7CFF;
 }
+
 
 /* ==========================================================================
    2.4  Pre Loader
@@ -2303,6 +2309,10 @@ footer .menu li a:hover {
 }
 
 .footer-social li .facebook:hover {
+  background-color: #3b5998;
+}
+
+.footer-social li .instagram:hover {
   background-color: #3b5998;
 }
 
